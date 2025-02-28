@@ -1,2 +1,2 @@
-import my
-my.FILE()
+import FILEX
+FILEX.__FILEX__()
